@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Conocimiento necesario Computacion grafica</title>
+  </head>
+  <body>
+    <outline text="Actualidad">
+      <outline text="Hardware">
+        <outline text="GPU">
+          <outline text="Nvidia"></outline>
+          <outline text="AMD"></outline>
+        </outline>
+      </outline>
+      <outline text="Video juegos"></outline>
+      <outline text="Realidad Virtual"></outline>
+    </outline>
+    <outline text="Aprender C++"></outline>
+  </body>
+</opml>
