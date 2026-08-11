@@ -14,6 +14,25 @@
       <outline text="Video juegos"></outline>
       <outline text="Realidad Virtual"></outline>
     </outline>
-    <outline text="Aprender C++"></outline>
+    <outline text="C++">
+      <outline text="Libreria STL"></outline>
+      <outline text="xcode"></outline>
+    </outline>
+    <outline text="Matematicas">
+      <outline text="Alegra lineal">
+        <outline text="coordenadas Homogeneas"></outline>
+        <outline text="vectores"></outline>
+      </outline>
+      <outline text="Rotaciones">
+        <outline text="Quaterniones">
+          <outline text="lerp"></outline>
+          <outline text="slerp"></outline>
+        </outline>
+        <outline text="Eurler">
+          <outline text="lock"></outline>
+        </outline>
+        <outline text="eje natural"></outline>
+      </outline>
+    </outline>
   </body>
 </opml>
