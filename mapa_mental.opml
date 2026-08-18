@@ -34,5 +34,17 @@
         <outline text="eje natural"></outline>
       </outline>
     </outline>
+    <outline text="Imagenes Raster">
+      <outline text="Cuantizacion">
+        <outline text="Error de cuantizacion"></outline>
+      </outline>
+      <outline text="Dithering">
+        <outline text="Floyd-Steinberg (1976)"></outline>
+      </outline>
+      <outline text="Halftoning">
+        <outline text="AM vs FM screening"></outline>
+      </outline>
+      <outline text="dpi vs ppi"></outline>
+    </outline>
   </body>
 </opml>
