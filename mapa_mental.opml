@@ -23,6 +23,14 @@
       <outline text="Clip space"></outline>
       <outline text="View matrix (look-at)"></outline>
     </outline>
+    <outline text="Ray Tracing">
+      <outline text="Rayos de sombra"></outline>
+      <outline text="Interseccion rayo-esfera"></outline>
+      <outline text="Materiales">
+        <outline text="Lambertiano"></outline>
+        <outline text="Dielectrico (vidrio)"></outline>
+      </outline>
+    </outline>
     <outline text="C++">
       <outline text="Libreria STL"></outline>
       <outline text="xcode"></outline>
