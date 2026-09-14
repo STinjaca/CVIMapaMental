@@ -39,6 +39,11 @@
       <outline text="Luz ambiental"></outline>
       <outline text="Integracion sobre el hemisferio"></outline>
     </outline>
+    <outline text="Graphics Pipeline">
+      <outline text="Clipping"></outline>
+      <outline text="Sombra planar (Blinn 1988)"></outline>
+      <outline text="Patron ECS"></outline>
+    </outline>
     <outline text="C++">
       <outline text="Libreria STL"></outline>
       <outline text="xcode"></outline>
