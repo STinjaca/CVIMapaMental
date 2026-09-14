@@ -14,40 +14,7 @@
       <outline text="Video juegos"></outline>
       <outline text="Realidad Virtual"></outline>
     </outline>
-    <outline text="Viewing">
-      <outline text="Matriz de proyeccion perspectiva"></outline>
-      <outline text="Division homogenea"></outline>
-      <outline text="NDC"></outline>
-      <outline text="Frustum"></outline>
-      <outline text="Ortografica vs perspectiva"></outline>
-      <outline text="Clip space"></outline>
-      <outline text="View matrix (look-at)"></outline>
-    </outline>
-    <outline text="Ray Tracing">
-      <outline text="Rayos de sombra"></outline>
-      <outline text="Interseccion rayo-esfera"></outline>
-      <outline text="Materiales">
-        <outline text="Lambertiano"></outline>
-        <outline text="Dielectrico (vidrio)"></outline>
-      </outline>
-    </outline>
-    <outline text="Surface Shading">
-      <outline text="BRDF Lambertiana (R sobre pi)"></outline>
-      <outline text="Blinn-Phong"></outline>
-      <outline text="Atenuacion 1/r2"></outline>
-      <outline text="Conservacion de energia"></outline>
-      <outline text="Luz ambiental"></outline>
-      <outline text="Integracion sobre el hemisferio"></outline>
-    </outline>
-    <outline text="Graphics Pipeline">
-      <outline text="Clipping"></outline>
-      <outline text="Sombra planar (Blinn 1988)"></outline>
-      <outline text="Patron ECS"></outline>
-    </outline>
-    <outline text="C++">
-      <outline text="Libreria STL"></outline>
-      <outline text="xcode"></outline>
-    </outline>
+
     <outline text="Matematicas">
       <outline text="Alegra lineal">
         <outline text="coordenadas Homogeneas"></outline>
@@ -64,6 +31,7 @@
         <outline text="eje natural"></outline>
       </outline>
     </outline>
+
     <outline text="Imagenes Raster">
       <outline text="Cuantizacion">
         <outline text="Error de cuantizacion"></outline>
@@ -75,6 +43,48 @@
         <outline text="AM vs FM screening"></outline>
       </outline>
       <outline text="dpi vs ppi"></outline>
+    </outline>
+
+    <outline text="Pipeline de Renderizado">
+      <outline text="Viewing (entrada de la camara)">
+        <outline text="Matriz de proyeccion perspectiva"></outline>
+        <outline text="Division homogenea"></outline>
+        <outline text="NDC"></outline>
+        <outline text="Frustum"></outline>
+        <outline text="Ortografica vs perspectiva"></outline>
+        <outline text="Clip space"></outline>
+        <outline text="View matrix (look-at)"></outline>
+      </outline>
+      <outline text="Rasterizacion (Graphics Pipeline)">
+        <outline text="Clipping"></outline>
+        <outline text="Sombra planar (Blinn 1988)"></outline>
+        <outline text="Patron ECS"></outline>
+      </outline>
+      <outline text="Ray Tracing (alternativa sin rasterizar)">
+        <outline text="Rayos de sombra"></outline>
+        <outline text="Interseccion rayo-esfera"></outline>
+        <outline text="Materiales">
+          <outline text="Lambertiano"></outline>
+          <outline text="Dielectrico (vidrio)"></outline>
+        </outline>
+      </outline>
+      <outline text="Iluminacion y Sombreado (Surface Shading)">
+        <outline text="BRDF Lambertiana (R sobre pi)"></outline>
+        <outline text="Blinn-Phong"></outline>
+        <outline text="Atenuacion 1/r2"></outline>
+        <outline text="Conservacion de energia"></outline>
+        <outline text="Luz ambiental"></outline>
+        <outline text="Integracion sobre el hemisferio"></outline>
+      </outline>
+    </outline>
+
+    <outline text="Lenguajes y Herramientas">
+      <outline text="C++">
+        <outline text="Libreria STL"></outline>
+        <outline text="xcode"></outline>
+      </outline>
+      <outline text="Swift y Metal">
+      </outline>
     </outline>
   </body>
 </opml>
