@@ -84,6 +84,8 @@
         <outline text="xcode"></outline>
       </outline>
       <outline text="Swift y Metal">
+        <outline text="Tipos SIMD (simd_float4x4, etc.)"></outline>
+        <outline text="Uniforms buffer"></outline>
       </outline>
     </outline>
   </body>
