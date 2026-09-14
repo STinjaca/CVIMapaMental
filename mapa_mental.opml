@@ -31,6 +31,14 @@
         <outline text="Dielectrico (vidrio)"></outline>
       </outline>
     </outline>
+    <outline text="Surface Shading">
+      <outline text="BRDF Lambertiana (R sobre pi)"></outline>
+      <outline text="Blinn-Phong"></outline>
+      <outline text="Atenuacion 1/r2"></outline>
+      <outline text="Conservacion de energia"></outline>
+      <outline text="Luz ambiental"></outline>
+      <outline text="Integracion sobre el hemisferio"></outline>
+    </outline>
     <outline text="C++">
       <outline text="Libreria STL"></outline>
       <outline text="xcode"></outline>
